@@ -130,8 +130,8 @@ a{
 
 
 .logo-img {
-    height: 20px;  /* Adjust size for navbar */
-    width: auto;   /* Keeps aspect ratio */
+    height: 5px;  /* Adjust size for navbar */
+    width: 10px;   /* Keeps aspect ratio */
     max-height: 60px;
 }
 
