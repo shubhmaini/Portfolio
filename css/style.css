@@ -133,7 +133,12 @@ a{
     height: 50px;  /* Adjust size for navbar */
     width: 50px;   /* Keeps aspect ratio */
     max-height: 60px;
-    padding-right: 2rem;
+}
+
+.brand-text {
+    margin-left: 10px; /* Space between logo and text */
+    font-weight: bold;
+    color: white; /* Change to match your design */
 }
 
 @media screen and (max-width: 1400px) {
