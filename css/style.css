@@ -132,7 +132,7 @@ a{
 .logo-img {
     height: 5px;  /* Adjust size for navbar */
     width: 10px;   /* Keeps aspect ratio */
-    max-height: 20px;
+    max-height: 40px;
 }
 
 @media screen and (max-width: 1400px) {
