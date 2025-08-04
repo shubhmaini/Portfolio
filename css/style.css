@@ -133,6 +133,7 @@ a{
     height: 50px;  /* Adjust size for navbar */
     width: 50px;   /* Keeps aspect ratio */
     max-height: 60px;
+    padding-right: 2rem;
 }
 
 @media screen and (max-width: 1400px) {
